@@ -1,8 +1,6 @@
 
 package login;
 
-import com.sun.xml.internal.bind.v2.runtime.RuntimeUtil;
-
 public class Main {
     
     private String nombre;
